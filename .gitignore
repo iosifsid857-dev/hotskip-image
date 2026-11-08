@@ -1,0 +1,7 @@
+.venv/
+weights/
+hy3pkg/
+__pycache__/
+*.png
+!assets/*.png
+last_latents.pt
